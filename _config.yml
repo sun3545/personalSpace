@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+url: https://sun3545.github.io
+root: /
+permalink: :year/:month/:day/:title/
+permalink_defaults:
