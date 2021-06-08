@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 url: https://sun3545.github.io
-root: /
+root: /sun3545.github.io/personalSpace/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
